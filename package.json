@@ -13,6 +13,9 @@
   "bin": {
 		"sf": "cli.js"
   },
+  "engines": {
+		"node": ">=4"
+  },
   "files": [
 		"cli.js"
   ],
