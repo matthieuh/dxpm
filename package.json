@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "name": "scaling-fiesta",
+  "version": "0.0.0",
+  "description": "Scaling Fiesta is a decentralyzed node package manager on top of ethereum",
+  "license": "MIT",
+  "repository": "matthieuh/scaling-fiesta",
+  "author": {
+    "name": "Matthieu Hostache",
+    "email": "matthieu.hostache@gmail.com",
+    "url": "http://matthieuh.github.io"
+  },
+  "bin": {
+		"sf": "cli.js"
+  },
+  "files": [
+		"cli.js"
+  ],
+  "keywords": [
+    "node",
+    "package",
+    "manager",
+    "decentralyzed",
+    "ethereum"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "execa": "0.8.0",
+    "xo": "*"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "xo": {
+    "envs": [
+      "node"
+    ]
+  },
+  "dependencies": {
+    "meow": "4.0.0",
+    "update-notifier": "2.3.0"
+  }
+}
