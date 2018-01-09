@@ -11,13 +11,13 @@
     "url": "http://matthieuh.github.io"
   },
   "bin": {
-		"sf": "cli.js"
+    "sf": "cli.js"
   },
   "engines": {
-		"node": ">=4"
+    "node": ">=4"
   },
   "files": [
-		"cli.js"
+    "cli.js"
   ],
   "keywords": [
     "node",
@@ -28,7 +28,6 @@
   ],
   "devDependencies": {
     "ava": "*",
-    "execa": "0.8.0",
     "xo": "*"
   },
   "scripts": {
@@ -40,7 +39,12 @@
     ]
   },
   "dependencies": {
+    "chalk": "2.3.0",
+    "execa": "0.8.0",
     "meow": "4.0.0",
+    "resolve-cwd": "2.0.0",
+    "subarg": "1.0.0",
+    "sudo-block": "2.0.0",
     "update-notifier": "2.3.0"
   }
 }
