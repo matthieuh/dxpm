@@ -10,3 +10,8 @@ test('setup cmd should return something', async t => {
 	const {stdout} = await execa('./cli.js', ['setup']);
 	t.true(stdout.length > 0);
 });
+
+test('publish cmd should return something', async t => {
+	const {stdout} = await execa('./cli.js', ['publish']);
+	t.true(stdout.length > 0);
+});
