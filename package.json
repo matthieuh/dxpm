@@ -17,8 +17,7 @@
     "node": ">=4"
   },
   "files": [
-    "cli.js",
-    "lib"
+    "cli.js"
   ],
   "keywords": [
     "node",
@@ -40,14 +39,21 @@
     ]
   },
   "dependencies": {
+    "buffer": "5.0.8",
     "chalk": "2.3.0",
     "download": "6.2.5",
     "execa": "0.8.0",
+    "fs-extra": "5.0.0",
+    "get-stream": "3.0.0",
+    "ipfs": "0.27.7",
+    "ipfs-api": "17.3.0",
     "is-my-json-valid": "2.17.1",
     "listr": "0.13.0",
     "make-dir": "1.1.0",
     "meow": "4.0.0",
+    "pad-stream": "2.0.0",
     "resolve-cwd": "2.0.0",
+    "rimraf": "2.6.2",
     "subarg": "1.0.0",
     "sudo-block": "2.0.0",
     "sudo-prompt": "8.1.0",
