@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "scaling-fiesta",
+  "name": "dnpm",
   "version": "0.0.0",
-  "description": "Scaling Fiesta is a decentralyzed node package manager on top of ethereum",
+  "description": "dnpm is a decentralyzed node package manager",
   "license": "MIT",
   "repository": "matthieuh/scaling-fiesta",
   "author": {
