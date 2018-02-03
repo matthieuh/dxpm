@@ -1,9 +1,9 @@
 {
-  "name": "dnpm",
+  "name": "dxpm",
   "version": "0.0.1",
-  "description": "dnpm is a decentralyzed node package manager",
+  "description": "dxpm is a decentralyzed node package manager",
   "license": "MIT",
-  "repository": "matthieuh/dnpm",
+  "repository": "matthieuh/dxpm",
   "author": {
     "name": "Matthieu Hostache",
     "email": "matthieu.hostache@gmail.com",
