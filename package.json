@@ -41,7 +41,6 @@
   "dependencies": {
     "buffer": "5.0.8",
     "chalk": "2.3.0",
-    "download": "6.2.5",
     "execa": "0.8.0",
     "fs-extra": "5.0.0",
     "get-stream": "3.0.0",
