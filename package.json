@@ -10,7 +10,7 @@
     "url": "http://matthieuh.github.io"
   },
   "bin": {
-    "sf": "cli.js"
+    "dnpm": "cli.js"
   },
   "engines": {
     "node": ">=4"
