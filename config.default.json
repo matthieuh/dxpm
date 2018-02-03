@@ -1,0 +1,6 @@
+{
+	"ipfs": {
+		"host": "http://localhost",
+		"port":  5001
+	}
+}
