@@ -1,6 +1,6 @@
 {
   "name": "dxpm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "dxpm is a decentralyzed node package manager",
   "license": "MIT",
   "repository": "matthieuh/dxpm",
